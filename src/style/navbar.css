@@ -1,0 +1,7 @@
+.navCnt{
+    background-color: rgb(112, 112, 112);
+    min-height: 10%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
